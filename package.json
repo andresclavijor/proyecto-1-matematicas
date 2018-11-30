@@ -1,0 +1,26 @@
+{
+  "name": "proyecto-1-matematicas",
+  "version": "1.0.0",
+  "description": "Proyecto 1 - Matematicas simples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm-js-ts-angular-modules-course/proyecto-1-matematicas.git"
+  },
+  "keywords": [
+    "matematicas",
+    "suma",
+    "resta",
+    "division",
+    "multi"
+  ],
+  "author": "Anartz Mugika Ledo <mugan86@gmail.com> (https://mugan86.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/npm-js-ts-angular-modules-course/proyecto-1-matematicas/issues"
+  },
+  "homepage": "https://github.com/npm-js-ts-angular-modules-course/proyecto-1-matematicas#readme"
+}
